@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/web-development-coding-programming-internet-technology-business-concept_628331-833.jpg" alt="MasterHead" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">Analytical and detail-oriented aspiring Frontend Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
